@@ -1,0 +1,79 @@
+.navigate {
+    background-color:#ffffff;
+    text-align:right;
+    height:50px;
+}
+
+title {
+    background-color:#cccccc;
+}
+body {
+    background-color:lightgray;
+}
+
+h1 {
+    border-bottom-color:lightgray;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    color:#4aaaa5;
+    font-size:30px;
+    font-weight:bolder;
+}
+
+footer {
+    border-top-color: #4aaaa5;
+    border-top-width: 10px;
+    border-top-style: solid;
+    padding-top: 10px;
+    margin-top: 10px;
+    background-color: lightgray;
+    width: 100%;
+}
+
+.contentform {
+    background-color:white;
+    margin:25px auto auto auto;
+    padding:10px;
+    width:700px;
+    height:500px;
+}
+
+.nav {
+    position:relative;
+    right:350px;
+    top:20px;
+    border-right:2px;
+    border-color:lightgray;
+    height:5px;
+
+
+}
+.profilepic {
+    float:left;
+    margin-right:10px;
+}
+
+.atnavige>a {
+    font:gray;
+    text-decoration: none;
+    margin: 5px auto auto auto;
+
+}
+
+.brand {
+    float:left;
+    position:relative;
+    left:350px;
+    top:20px;
+    font-size:20px;
+}
+.content {
+    background-color:white;
+    margin:25px auto auto auto;
+    padding:10px;
+    width:700px;
+    height:500px;
+    color:#777777;
+}
